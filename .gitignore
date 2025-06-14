@@ -1,0 +1,6 @@
+# .gitignore
+/build/
+/docs/html/
+*.sqlite
+*.o
+*.exe
